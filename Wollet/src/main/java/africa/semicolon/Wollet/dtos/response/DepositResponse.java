@@ -7,4 +7,5 @@ import lombok.Setter;
 @Setter
 public class DepositResponse {
     private String message;
+    private String amount;
 }
